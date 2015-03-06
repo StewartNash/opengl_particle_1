@@ -1,0 +1,2 @@
+# opengl_particle_1
+Particle dispersion in OpenGL using C++. Particles with random initial parameters disperse from an area. The particles are non-interacting. This is a prototype for a more advanced Physics engine. Please see following submissions for revisions. (Please submit improvements of these later submissions.)
